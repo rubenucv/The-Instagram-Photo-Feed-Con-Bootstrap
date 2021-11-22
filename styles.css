@@ -1,0 +1,27 @@
+.instagram{
+    font-family: 'Lobster', cursive;
+    margin-left: 3px;
+}
+
+/* .picture{
+    width: 300px;
+    height: auto;
+    padding:10px;
+    margin:0;
+} */
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+    background-color:#f8f9fa !important;
+}
+
+.nav-link {
+    display: block;
+    padding: .5rem 1rem;
+    color:  #6c757d !important;
+    text-decoration: none;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+}
+
+
+
